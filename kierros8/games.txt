@@ -1,0 +1,6 @@
+anna 7
+ira 3
+anton 8
+vadik 6
+ira 8
+anna 3

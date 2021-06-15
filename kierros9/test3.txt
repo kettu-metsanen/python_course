@@ -1,0 +1,9 @@
+Matematiikka;Algebra;5
+Matematiikka;Lineaarinen algebra ja geometria 1;5
+Matematiikka;Lineaarinen algebra ja geometria 2;5
+Matematiikka;Matematiikan peruskäsitteitä;5
+Tietotekniikka;Ohjelmointi 1;5	
+Tietotekniikka;Ohjelmointi 2;5	
+Tietotekniikka;Ohjelmointi 3;5	
+Tietotekniikka;Tietorakenteet ja algoritmit 1;5
+Tietotekniikka;Tilastotieteen johdantokurssi;5
